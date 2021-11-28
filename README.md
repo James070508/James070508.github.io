@@ -20,7 +20,7 @@
 </ul>
 </nav>
 <section>
-
+Ahoj
 </section>
 <footer>
 <img src="obrS/Footer.jpg">
