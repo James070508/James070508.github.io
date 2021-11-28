@@ -1,27 +1,30 @@
 <!DOCTYPE html>
-<html lang="cz">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZKouším</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel = "icon" href = "zkousimes.svg" 
-            type = "image/x-icon">
-              
-</head>
-<body>
-    <header> 
-      <img src="banner.png" class="alfa">
-    </header>
-    <nav> 
-      <ul class="menu">
+<html lang="cs-cz">
+  <head>  
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <meta charset="utf-8"/>  
+    <title>Titulek</title>
+      <link href="style.css"rel="stylesheet"type="text/css"/>
+  </head> 
+  <body>
+<div class="obalka">
+<header>
+<img src="obrS/Hlavicka.jpg">
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Úvod</a></li>
+<li><a href="draci.html">Draci</a></li>
+<li><a href="obchodni.html">Obchodní podmínky</a></li>
+<li><a href="kontakt.html">Kontakt</a></li>
+</ul>
+</nav>
+<section>
 
-      <li><a href="index.html">Domovská stránka</a></li>
-      <li><a href="novinky.html">Novinky</a></li>
-      <li><a href="kontakt.html">Kontakt</a></li>
-    </ul></nav>
-    <H1 class="novinky">Novinky</H1>
-    <p class="novinka">Zapínáme web</p>
-</body>
+</section>
+<footer>
+<img src="obrS/Footer.jpg">
+</footer>
+</div>
+  </body>
 </html>
