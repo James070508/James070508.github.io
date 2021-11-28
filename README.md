@@ -4,7 +4,53 @@
     <link rel="stylesheet" type="text/css" href="style.css"> 
     <meta charset="utf-8"/>  
     <title>Titulek</title>
-      <link href="style.css"rel="stylesheet"type="text/css"/>
+    <style>.obalka
+{
+margin: 0 auto;
+width:1200px;
+background-color:rgb(151,212,235);
+border:solid #000 2px;
+}
+header
+{
+}
+nav
+{
+height:50px;
+background-color:#003768;
+}
+nav ul 
+{
+list-style-type:none;
+}
+nav ul li
+{
+display:inline-block;
+font-family:Tahoma;
+margin: 13px 15px 30px 30px;
+font-size:20px;
+}
+nav ul li a
+{
+text-decoration:none;
+color:white;
+}
+nav ul li a:hover{
+color:#fc0;
+}
+section
+{
+text-align:center;
+}
+body
+{
+background-color:rgb(255,102,0);
+}
+footer
+{
+text-align:center;
+}
+</style>
   </head> 
   <body>
 <div class="obalka">
