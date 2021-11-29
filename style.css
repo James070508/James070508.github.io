@@ -32,7 +32,7 @@ font-size:20px;
 nav ul li a
 {
 text-decoration:none;
-color:white;
+color:rgb(234, 222, 222);
 }
 nav ul li a:hover{
 color:#fc0;
